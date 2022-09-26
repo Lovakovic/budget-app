@@ -24,7 +24,7 @@ module.exports = {
         static: path.join(__dirname, 'public'),
         port: 8080,
         open: true,
-        hot: true,
+        hot: false,
         historyApiFallback: true
     },
     devtool: 'eval-cheap-module-source-map'
