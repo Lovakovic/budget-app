@@ -1,1 +1,3 @@
-Next video: 10 Redux --> 001
+Firstly watch the video in wetch later playlist about the updated redux 
+toolkit sytax, then continue witht the course:
+Next video: 10 Redux --> 003
