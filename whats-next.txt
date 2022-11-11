@@ -1,1 +1,1 @@
-Next video: 10 Redux --> 012
+Next video: 11 React with Redux --> 001
